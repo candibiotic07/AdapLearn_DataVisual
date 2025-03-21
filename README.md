@@ -8,15 +8,6 @@ This directory contains visual representations of the Adaptive Learning system's
 2. **hierarchical_view.md** - Tree visualization of the hierarchical structure of the system components
 3. **data_flow.md** - Flowchart showing the data flow between different actors and components in the system
 
-## How to View These Diagrams
-
-These diagrams are written in Mermaid markdown syntax. To view them:
-
-1. **GitHub**: If you push these files to GitHub, they will automatically render the Mermaid diagrams
-2. **VS Code**: Install the "Markdown Preview Mermaid Support" extension in VS Code
-3. **Online Mermaid Editor**: Copy the content between the mermaid code fences and paste it into [Mermaid Live Editor](https://mermaid.live/)
-4. **Browser Extensions**: Various browser extensions can render Mermaid diagrams in markdown files
-
 ## System Architecture Overview
 
 The Adaptive Learning system is built on MongoDB (using Mongoose for schema definitions) and is organized into four main modules that work together to create a comprehensive educational platform.
