@@ -178,5 +178,4 @@ erDiagram
     LMSChapter ||--|{ LMSTopic : "has"
     LMSTopic ||--|{ LMSSubTopic : "has"
     LMSTopic ||--|{ Material : "contains"
-    LMSSubTopic ||--|{ Material : "contains"
-} 
+    LMSSubTopic ||--|{ Material : "contains" 
